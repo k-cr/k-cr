@@ -2,18 +2,39 @@
 <h3 align="center">Fullstack Developer Jr.</h3>
 
 - 🔭 I’m currently working on **Inmobiliaria Río as a work project**
-
+- 📚 I'm currently studying in <a href="https://www.unpa.edu.ar/carreras/mostrar/72/UARG">Universidad Nacional de la Patagonia Austral (UNPA)</a>
 - 🌱 I’m currently learning **Python and React**
+- 📑 You can view a little portfolio <a href="https://ypportfoliocr.web.app/home">here</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/cristian-ramos-931060174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristian-ramos-931060174" height="30" width="40" /></a>
-<a href="https://instagram.com/c.r__k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c.r__k" height="30" width="40" /></a>
-</p>
+<h3 align="center">Technologies</h3>
+<div align="center">
+  
+| |
+| :--- |
+| **Programming languages** |
+| ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=black&style=for-the-badge&logo=JavaScript) ![Java](https://img.shields.io/static/v1?label=&message=Java&color=orange&style=for-the-badge&logo=java&logoColor=red) ![typescript](https://img.shields.io/static/v1?label=&message=typescript&color=blue&style=for-the-badge&logo=typescript&logoColor=white) | 
+| **Frontend Development** |
+| ![html5](https://img.shields.io/static/v1?label=&message=html5&color=orange&style=for-the-badge&logo=html5&logoColor=white) ![ccs3](https://img.shields.io/static/v1?label=&message=ccs3&color=blue&style=for-the-badge&logo=css3&logoColor=white) ![angular](https://img.shields.io/static/v1?label=&message=angular&color=red&style=for-the-badge&logo=angular&logoColor=white) ![bootstrap](https://img.shields.io/static/v1?label=&message=bootstrap&color=7952B3&style=for-the-badge&logo=bootstrap&logoColor=white)|
+| **Backend Development** |
+| ![node.js](https://img.shields.io/static/v1?label=&message=node.js&color=339933&style=for-the-badge&logo=node.js&logoColor=white) ![springboot](https://img.shields.io/static/v1?label=&message=springboot&color=6DB33F&style=for-the-badge&logo=springboot&logoColor=white) |
+| **Databases** |
+| ![Firebase Database](https://img.shields.io/static/v1?label=&message=Firebase+Database&color=FFCA28&style=for-the-badge&logo=firebase&logoColor=white) ![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&style=for-the-badge&logo=mysql&logoColor=white) |
+| **Frontend & Backend Hosting** |
+| ![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=FFCA28&style=for-the-badge&logo=Firebase&logoColor=white) ![Heroku](https://img.shields.io/static/v1?label=&message=Heroku&color=430098&style=for-the-badge&logo=Heroku&logoColor=white) ![Github Pages](https://img.shields.io/static/v1?label=&message=Github+Pages&color=222222&style=for-the-badge&logo=Github+Pages&logoColor=white) |
+| **Software** |
+| ![Photoshop](https://img.shields.io/static/v1?label=&message=Photoshop&color=31A8FF&style=for-the-badge&logo=adobe+photoshop&logoColor=white) ![Postman](https://img.shields.io/static/v1?label=&message=Postman&color=FF6C37&style=for-the-badge&logo=postman&logoColor=white) |
+| **Other**|
+| ![Gitlab](https://img.shields.io/static/v1?label=&message=Gitlab&color=black&style=for-the-badge&logo=gitLab&logoColor=fffff) ![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/static/v1?label=&message=Arduino&color=00979D&style=for-the-badge&logo=arduino&logoColor=white) |
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
+  <h3>Stats</h3>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-cr&show_icons=true&locale=en&layout=compact" alt="k-cr" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-cr&show_icons=true&locale=en&layout=compact" alt="k-cr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-cr&show_icons=true&locale=en" alt="k-cr" /></p>
+<div align="center">
+  <h3>Contact me:</h3>
+  
+  <a href="https://instagram.com/c.r__k">![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&style=for-the-badge&logo=instagram&logoColor=white)</a>
+  <a href="https://discordapp.com/channels/@me/273529838462042126/">![Discord](https://img.shields.io/static/v1?label=&message=Discord&color=5865F2&style=for-the-badge&logo=discord&logoColor=white)   </a> 
+</div>
