@@ -18,7 +18,7 @@
 | **Backend Development** |
 | ![node.js](https://img.shields.io/static/v1?label=&message=node.js&color=339933&style=for-the-badge&logo=node.js&logoColor=white) ![springboot](https://img.shields.io/static/v1?label=&message=springboot&color=6DB33F&style=for-the-badge&logo=springboot&logoColor=white) |
 | **Databases** |
-| ![Firebase Database](https://img.shields.io/static/v1?label=&message=Firebase+Database&color=FFCA28&style=for-the-badge&logo=firebase&logoColor=white) ![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&style=for-the-badge&logo=mysql&logoColor=white) |
+| ![Firestore Database](https://img.shields.io/static/v1?label=&message=Firebase+Database&color=FFCA28&style=for-the-badge&logo=firebase&logoColor=white) ![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&style=for-the-badge&logo=mysql&logoColor=white) |
 | **Frontend & Backend Hosting** |
 | ![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=FFCA28&style=for-the-badge&logo=Firebase&logoColor=white) ![Heroku](https://img.shields.io/static/v1?label=&message=Heroku&color=430098&style=for-the-badge&logo=Heroku&logoColor=white) ![Github Pages](https://img.shields.io/static/v1?label=&message=Github+Pages&color=222222&style=for-the-badge&logo=Github+Pages&logoColor=white) |
 | **Software** |
