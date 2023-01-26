@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Inmobiliaria Río as a work project**
 - 📚 I'm currently studying in <a href="https://www.unpa.edu.ar/carreras/mostrar/72/UARG">Universidad Nacional de la Patagonia Austral (UNPA)</a>
 - 🌱 I’m currently learning **Python and React**
-- 📑 You can view a little portfolio <a href="https://ypportfoliocr.web.app/home">here</a>
+- 📑 You can view a little portfolio <a href="https://k-cr.github.io/portfolioArgPrograma4.0.github.io">here</a>
 
 <h3 align="center">Technologies</h3>
 <div align="center">
